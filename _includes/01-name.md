@@ -1,3 +1,3 @@
 # Main Portifolio 
-## Ph.D. Content
+## Ph.D. Thesis Content and coding
 ###### Leonardo da Silva Garcia Leite
