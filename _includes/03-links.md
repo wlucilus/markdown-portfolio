@@ -1,4 +1,6 @@
-Replace this with a link to your a GitHub or social media profile.
-This is a link to my profile
+Here are some links to my profiles
 
-[Profile](https://github.com/wlucilus)
+[Github profile](https://github.com/wlucilus)
+[Google scholar](https://scholar.google.com/citations?user=OsEUQIcAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/leonardo-leite-a333851a0/)
+[Personal page - Orbit studies in javascript](http://lucilus.yolasite.com/coulombs-law.php)
